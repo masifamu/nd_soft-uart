@@ -2,3 +2,4 @@ build
 example/.vscode/settings.json
 example/.vscode/.cortex-debug.registers.state.json
 *.o
+*.vscode/
